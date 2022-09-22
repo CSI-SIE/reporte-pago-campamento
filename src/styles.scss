@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+@use '~iest-theme-material/iest-theme';
+
+
+.mat-header-cell {
+
+  text-align: left !important;
+
+}
+
+.mat-sort-header-container {
+  justify-content: left;
+}
+
+.mat-cell {
+  text-align: left !important;
+}
